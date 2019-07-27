@@ -159,7 +159,7 @@ public class PictureTester_CalebRollins
     //testNegate();
     //testGrayscale();
     //testFixUnderwater();
-	//testMirrorDiagonal();
+	testMirrorDiagonal();
     //testMirrorVertical();
 	//testMirrorVerticalRightToLeft();
 	//testMirrorHorizontalBotToTop(); 
