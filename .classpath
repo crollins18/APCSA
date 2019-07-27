@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Caleb Rollins/Documents/GitHub/APCSA/jar-files/KarelJRobot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Caleb Rollins/Documents/GitHub/APCSA/jar-files/gridworld.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
